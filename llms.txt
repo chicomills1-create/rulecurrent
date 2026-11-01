@@ -1,0 +1,9 @@
+# RuleCurrent
+
+RuleCurrent is a permit-intelligence subscription for Phoenix, Arizona filers — GCs, architects, and permit expediters. It monitors official City of Phoenix sources (Planning & Development Department checklists and applications, published fee schedules, the SHAPE PHX / Electronic Plan Review portals, adopted building codes and interpretations, zoning applications and text amendments, and Fire Prevention publications), verifies every detected change against the live official source, and publishes items in a fixed format: what changed, the official source (direct link), the source's effective/posting date, who it affects, and an action checklist.
+
+Tiers (Phoenix pilot): Pulse Solo $49/mo, Pulse Firm $99/mo, Pulse Pro $199/mo.
+
+Boundaries: RuleCurrent is an independent information service, a brand of Apex Grid Engineering PLLC. It is not affiliated with or endorsed by the City of Phoenix or any agency, guarantees no approval, timeline, or outcome, and publishes no legal advice or engineering judgment. Corrections are issued visibly to all subscribers and logged.
+
+Contact: info@rulecurrent.com
